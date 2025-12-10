@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>PXL Docker Lab: Node + Vue + Postgres</h1>
+    <h1>PXL Docker Lab: Node + Vue + Postgres - Test</h1>
 
     <div class="card">
       <h2>System Status</h2>
